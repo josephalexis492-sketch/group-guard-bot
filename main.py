@@ -16,7 +16,7 @@ from telegram.ext import (
 )
 
 # ===== CONFIG =====
-BOT_TOKEN = os.getenv("8237376549:AAFxiKB_6aBuqnPZLBz17HuZYl4-PMTm8WQ")
+BOT_TOKEN ="8237376549:AAFxiKB_6aBuqnPZLBz17HuZYl4-PMTm8WQ"
 
 # ===== LOGGING =====
 logging.basicConfig(
